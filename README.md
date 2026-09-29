@@ -1,0 +1,3 @@
+Hello! This is the first big JavaScript project that I completed about halfway through my certification. I had to do some tweaking of the code when it applied to GitHub but it should be all fine and running correctly now. 
+
+As you can probably see just from start up, the application allows you to search for any of the initial gen 1 Pokémon, all 151 of them (not including missingno). You can also simply scroll through the entire list if you just wanted to look at them for what they are. At some point I would like to come back to this project and make it so you can sort them by type, but it has been a few months since I touched it except to upload it here, so I will have to delay that until a future time.
